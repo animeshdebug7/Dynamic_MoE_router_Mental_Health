@@ -94,7 +94,7 @@ of Arrow's routing signal, not PEFT's per-token Arrow; see *Limitations*.)
 
 ---
 
-## Dynamic-k selection: an original rule
+## Dynamic-k selection (mine)
 
 The number of active experts is set by a *dynamic-k rule* applied to the routing
 distribution. The common choice (and the production default here) is a
