@@ -1,0 +1,8 @@
+torch
+transformers
+peft
+safetensors
+numpy
+scikit-learn
+PyPDF2
+colorama
